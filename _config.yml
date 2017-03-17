@@ -1,0 +1,9 @@
+title: Codestyle
+author: Paul Radzkov
+email: radzkov@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Codestyle defines formatting and style rules for CSS. 
+  It aims at improving collaboration, code quality, and enabling supporting infrastructure.
+# twitter_username: paul_radzkov
+github_username: paulradzkov
+google_analytics: UA-29416794-1
