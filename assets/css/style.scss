@@ -4,6 +4,10 @@
 @import "https://unpkg.com/bettertext.css@latest/bettertext.min.css";
 @import "https://unpkg.com/links.less@latest/links.min.css";
 
+.site-logo {
+  border-radius: 2px;
+}
+
 .highlight .hll { background-color: #ffffcc }
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
