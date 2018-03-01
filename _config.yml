@@ -7,3 +7,4 @@ description: > # this means to ignore newlines until "baseurl:"
 # twitter_username: paul_radzkov
 github_username: paulradzkov
 google_analytics: UA-29416794-1
+remote_theme: paulradzkov/docs-template
