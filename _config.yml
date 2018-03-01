@@ -8,3 +8,4 @@ description: > # this means to ignore newlines until "baseurl:"
 github_username: paulradzkov
 google_analytics: UA-29416794-1
 remote_theme: paulradzkov/docs-template
+github_link: https://github.com/paulradzkov/codestyle
